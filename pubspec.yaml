@@ -29,7 +29,8 @@ environment:
 # versions available, run `flutter pub outdated`.
 dependencies:
   velocity_x: ^3.3.0
-  
+  image_editor_plus: ^1.0.3
+  image_picker: ^1.0.4
   flutter:
     sdk: flutter
 
